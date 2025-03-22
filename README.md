@@ -1,5 +1,5 @@
 ## Hi there i'm Felipe👋
-
+- 📚 Information Systems Bachelor's Degree at IFAL - Instituto Federal de Alagoas (5/8)
 - 🔭 I'm currently working with web
 - 😄 Pronouns: he/him
 
